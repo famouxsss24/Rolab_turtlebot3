@@ -1,5 +1,5 @@
 # Rolab TurtleBot3 — 통신 두절 자율주행 UGV
-<img width="4284" height="5712" alt="IMG_3590" src="https://github.com/user-attachments/assets/ee1bc521-d6a2-4ad7-b525-9943d2b01928" />
+<img width="4284/3" height="5712/3" alt="IMG_3590" src="https://github.com/user-attachments/assets/ee1bc521-d6a2-4ad7-b525-9943d2b01928" />
 
 
 광운대학교 로봇 학술 연구 동아리 **Rolab** 여름 프로젝트.
