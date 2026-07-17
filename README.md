@@ -1,4 +1,6 @@
 # Rolab TurtleBot3 — 통신 두절 자율주행 UGV
+<img width="4284" height="5712" alt="IMG_3590" src="https://github.com/user-attachments/assets/ee1bc521-d6a2-4ad7-b525-9943d2b01928" />
+
 
 광운대학교 로봇 학술 연구 동아리 **Rolab** 여름 프로젝트.
 통신·GPS가 끊긴 환경에서도 멈추지 않고 **스스로 인식·판단·조작**하는 자율 UGV를 ROS2·Nav2·Isaac Sim으로 구축한다.
